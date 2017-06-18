@@ -35,5 +35,8 @@ trav.sh
 .settings/
 .tmp/
 
+# npm related files
+package-lock.json
+
 # System files
 .DS_Store
